@@ -1,0 +1,2 @@
+real internet delays routers-- trans oceanic link, se tarda en eviar los paquetes mas tiempo, es el error que pasa
+PDU--- protocol data unit

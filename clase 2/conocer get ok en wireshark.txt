@@ -1,0 +1,9 @@
+para obtener el get se utiliza el filtro  http.request.uri 		
+69	17:56:49.875592	172.18.137.103	128.119.245.12	HTTP	582	GET /wireshark-labs/INTRO-wireshark-file1.html HTTP/1.1 
+
+pra obtener el ok se utiliza el filtro http.response
+77	17:56:50.153228	128.119.245.12	172.18.137.103	HTTP	295	HTTP/1.1 304 Not Modified 
+
+para ver direccion de reurso y destiuno ip.src
+Internet Protocol Version 4, Src: 173.45.110.142, Dst: 172.18.137.103
+
