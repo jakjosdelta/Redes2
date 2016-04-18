@@ -1,0 +1,16 @@
+enrurutameinto, seleccion mejor camino y el direccionamiento y adicional protocolo para ver como esta la red icmp
+
+tegno un paquete normal que no tienen opciones que valor va alli .. 32bits 20bits 40bits.. respuesta 20 bits
+
+ipv6 no tiene cabecera porque es fija// porquee ya sabe la lingitud de la cabecera..
+
+time to live solo da hasta 255 no mas.. cada vez que pasa un router ese router lo que hace es decrementarlo osea 254 
+y cuando llega a 0 lo borra le informa al origen que ese paquete no pudo se entregado
+
+uper layer con length, permite hacer un proceso de fragmentacion
+
+ver foto de fragmentacion
+
+ip es la que indentifica un host o interface de un router
+
+
